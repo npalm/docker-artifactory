@@ -3,7 +3,7 @@ MAINTAINER Niek Palm "dev.npalm@gmail.com"
 
 
 ENV ARTIFACTORY_HOME /artifactory
-ENV ARTIFACTORY_VERSION 4.1.0
+ENV ARTIFACTORY_VERSION 4.7.1
 #ENV ARTIFACTORY_URL http://dl.bintray.com/content/jfrog/artifactory/artifactory-$ARTIFACTORY_VERSION.zip?direct
 ENV ARTIFACTORY_URL https://bintray.com/artifact/download/jfrog/artifactory/jfrog-artifactory-oss-$ARTIFACTORY_VERSION.zip?direct
 
